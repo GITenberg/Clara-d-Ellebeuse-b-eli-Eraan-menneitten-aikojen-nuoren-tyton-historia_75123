@@ -1,0 +1,39 @@
+_repo: Clara-d-Ellebeuse-b-eli-Eraan-menneitten-aikojen-nuoren-tyton-historia_75123
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Koskelainen, Yrjö
+    alias: Koskelainen, Yrjo
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '44560'
+    url: http://www.gutenberg.org/2009/agents/44560
+    wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Koskelainen
+creator:
+  author:
+    agent_name: Jammes, Francis
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '4702'
+    url: http://www.gutenberg.org/2009/agents/4702
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Francis_Jammes
+    - https://fr.wikipedia.org/wiki/Francis_Jammes
+description: ''
+gutenberg_issued: '2025-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75123'
+language: fi
+pgterms:marc905: 20241230123646jammes
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aTurku :$bTurun Suomalainen Kirjapaino- ja Sanomalehti Oy, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Clara d''Ellébeuse : $b eli Erään menneitten aikojen nuoren tytön historia'
+url: http://www.gutenberg.org/ebooks/75123
