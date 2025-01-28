@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '44560'
     url: http://www.gutenberg.org/2009/agents/44560
     wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Koskelainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jammes, Francis
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Francis_Jammes
     - https://fr.wikipedia.org/wiki/Francis_Jammes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75123#Clara-d-Ellebeuse-b-eli-Eraan-menneitten-aikojen-nuoren-tyton-historia
 gutenberg_issued: '2025-01-16'
 gutenberg_type: Text
 identifiers:
